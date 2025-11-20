@@ -1,5 +1,1 @@
-print("Hello world")
-print("test")
-print("tset")
-print("Another line")
-print("Final line")
+print("last one")
